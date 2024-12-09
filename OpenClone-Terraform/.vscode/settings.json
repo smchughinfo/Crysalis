@@ -1,0 +1,7 @@
+{
+  "workbench.colorTheme": "Henna",
+  "opencloneDevContainerStatusBar.text": "kind",
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#21272e"
+  }
+}
